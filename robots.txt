@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://recaslum.github.io/sitemap.html.gz
+Sitemap: https://recaslum.github.io/app/sitemap.html.gz
+Sitemap: https://recaslum.github.io/assets/sitemap.html.gz
+Sitemap: https://recaslum.github.io/css/sitemap.html.gz
+Sitemap: https://recaslum.github.io/includes/sitemap.html.gz
+Sitemap: https://recaslum.github.io/item/sitemap.html.gz
+Sitemap: https://recaslum.github.io/src/sitemap.html.gz
